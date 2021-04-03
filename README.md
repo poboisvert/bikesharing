@@ -4,7 +4,7 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 
 ### Deployed Interactive Interface - Tableau Public
 
-> https://public.tableau.com/profile/pierre.olivier.boisvert#!/vizhome/Challenge_16174085472930/NYCCitibike?publish=yes
+> https://public.tableau.com/profile/pierre.olivier.boisvert#!/vizhome/Challenge_16174085472930/NYCCitibike
 
 ## Resources
 
@@ -15,15 +15,25 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 
 ### Activity during the month
 
+![preview](src/img/trip_time.png)
+
 - There were over 2.3 million rides for the month of August 2019.
 - During the week users are subscribers and during the weekend customer like to use the bike sharing service.
 - There is a wide range of the age of the users. Male tend to use the serivce more often than women and the aveerage trip is below 30 minutes.
 
 ### Activity during the day
 
+![preview](src/img/week_activity.png)
+
 - Highest activity hours are from 6AM to 8AM and 5:00 PM to 7:00 PM and require the most resources mobilized.
 
+### Activity duration
+
+![preview](src/img/trip_time.png)
+
 ### Location matter
+
+![preview](src/img/trip_area.png)
 
 - Most ride start locations are in the touristic or business areas on the island of NYC.
 
