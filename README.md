@@ -42,7 +42,7 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 
 ## Summary
 
-- Adter the visualisation, we can confirm the popularity of this service in in New York during the month of August 2019.
+- The visualisation confirm the popularity of this service in in New York during the month of August 2019.
 
 - The majority of the trips were in Manhattan Island (by male users during morning and evening rush hours).
 
